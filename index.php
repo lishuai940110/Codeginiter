@@ -310,6 +310,6 @@ switch (ENVIRONMENT)
  * LOAD THE BOOTSTRAP FILE
  * --------------------------------------------------------------------
  *
- * And away we go...
+ * And away we go...我是测试git使用方法的
  */
 require_once BASEPATH.'core/CodeIgniter.php';
